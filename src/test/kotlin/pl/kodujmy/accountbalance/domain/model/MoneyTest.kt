@@ -1,10 +1,7 @@
-package pl.kodujmy.accountbalance
+package pl.kodujmy.accountbalance.domain.model
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows
-import pl.kodujmy.accountbalance.domain.model.CurrencyExchangeRate
-import pl.kodujmy.accountbalance.domain.model.Money
-import pl.kodujmy.accountbalance.domain.model.currency
 import org.assertj.core.api.Assertions.*
 
 class MoneyTest {

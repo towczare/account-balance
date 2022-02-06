@@ -1,4 +1,4 @@
-package pl.kodujmy.accountbalance
+package pl.kodujmy.accountbalance.domain.ports
 
 import org.assertj.core.api.Assertions.*
 import org.junit.jupiter.api.Test

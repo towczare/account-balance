@@ -1,8 +1,6 @@
-package pl.kodujmy.accountbalance
+package pl.kodujmy.accountbalance.adapters.exchangerateprovider
 
 import org.junit.jupiter.api.Test
-import pl.kodujmy.accountbalance.adapters.exchangerateprovider.NbpExchangeRate
-import pl.kodujmy.accountbalance.adapters.exchangerateprovider.Rate
 import pl.kodujmy.accountbalance.domain.model.CurrencyExchangeRate
 import pl.kodujmy.accountbalance.domain.model.currency
 import pl.kodujmy.accountbalance.domain.ports.ExchangeRateType
